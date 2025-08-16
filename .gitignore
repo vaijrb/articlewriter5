@@ -2,7 +2,8 @@
 *config*
 *.pyc*
 *.old*
-*log
+*log*
+*.backup*
 .vscode/
 Lib/
 Scripts/
