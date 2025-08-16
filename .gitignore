@@ -7,3 +7,4 @@
 .vscode/
 Lib/
 Scripts/
+*generation_report*
