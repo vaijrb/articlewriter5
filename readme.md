@@ -36,6 +36,7 @@ python setup.py
 # Copy environment template and add your API keys
 cp .env.example .env
 # Edit .env with your API keys
+# Pre-release Developers - Request for a config.yaml file
 ```
 
 Required API key:
@@ -122,7 +123,7 @@ search:
 
 # Generation settings  
 generation:
-  model: "gpt-4"
+  model: "gpt-5-mini"
   temperature: 0.7
   target_word_counts:
     abstract: 250
